@@ -1,4 +1,7 @@
 {
   "login" : "Login",
-  "phoneNumber" : "Phone Number"
+  "phoneNumber" : "Phone Number",
+  "enterOtp" : "Enter OTP",
+  "otp" : "OTP",
+  "next" : "Next"
 }
