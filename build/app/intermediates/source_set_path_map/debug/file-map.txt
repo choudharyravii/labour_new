@@ -10,3 +10,4 @@ com.example.labour_dekho.app-rs-8 D:\Labour Dekho\code\labour_new\build\app\gene
 com.example.labour_dekho.app-mergeDebugResources-9 D:\Labour Dekho\code\labour_new\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
 com.example.labour_dekho.app-mergeDebugResources-10 D:\Labour Dekho\code\labour_new\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
 com.example.labour_dekho.app-merged_res-11 D:\Labour Dekho\code\labour_new\build\app\intermediates\merged_res\debug
+com.example.labour_dekho.app-packaged_res-12 D:\Labour Dekho\code\labour_new\build\shared_preferences_android\intermediates\packaged_res\debug
